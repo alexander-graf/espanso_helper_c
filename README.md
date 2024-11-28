@@ -102,8 +102,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Your Name] - Initial work
+[Alexander Graf] - Initial work
 
-## Support
+## Support  
 
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
